@@ -1,0 +1,6 @@
+{
+  "name": "DropIn - Spontaneous Pickup Sports",
+  "description": "Hyper-spontaneous, map-first sports meetup app. Instant pickup games, running groups, and spontaneous sports near you.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
